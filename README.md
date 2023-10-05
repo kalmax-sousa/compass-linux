@@ -230,7 +230,6 @@ Aqui estão os passos para configurar o servidor Apache:
     Crie um arquivo de configuração para o virtual host em **/etc/httpd/conf.d/hello.conf** com as seguintes configurações:
     
     ```bash
-    bashCopy code
     <VirtualHost *:80>
         ServerAdmin webmaster@localhost
         ServerName localhost
