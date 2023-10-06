@@ -264,7 +264,6 @@ Aqui está o processo para criar e configurar o arquivo de monitoramento do serv
     Adicione o seguinte código ao arquivo:
     
     ```bash
-    bashCopy code
     #!/bin/bash
     timestamp=$(date +"%Y-%m-%d %T")
     service_name="Apache"
